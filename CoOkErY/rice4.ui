@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Rice4</class>
+ <widget class="QWidget" name="Rice4">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>0</y>
+     <width>81</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PALAK RICE</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>50</y>
+     <width>241</width>
+     <height>211</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Required Images/palaka.jpg</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>270</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:5px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'VERDANA,Arial'; font-size:8pt; font-weight:600; color:#c13e16;&quot;&gt;&lt;br /&gt;Ingredients:&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;right&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Times New Roman'; font-size:8pt; color:#000000;&quot;&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;right&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#ffffff&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td width=&quot;30&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:10px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'verdana,Arial'; font-size:8pt; color:#515151; background-color:#ffffff;&quot;&gt;1/2 bunch (cut into small pieces) palak&lt;/span&gt;&lt;span style=&quot; font-family:'verdana,Arial'; font-size:8pt; color:#515151;&quot;&gt;&lt;br /&gt;a pod garlic&lt;br /&gt;a small piece of ginger&lt;br /&gt;1 chopped onion&lt;br /&gt;1 tomato&lt;br /&gt;a few sprigs of curry leaves&lt;br /&gt;1 mashed potato&lt;br /&gt;1 cup basamathi rice&lt;br /&gt;salt to taste&lt;br /&gt;1/2 tblsp garam masala powder (optional)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:10px; -qt-block-indent:0; text-indent:0px; font-family:'verdana,Arial'; font-size:8pt; color:#515151; background-color:#ffffff;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:10px; -qt-block-indent:0; text-indent:0px; font-family:'verdana,Arial'; font-size:8pt; color:#515151; background-color:#ffffff;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:10px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'verdana,Arial'; font-size:8pt; font-weight:600; color:#515151;&quot;&gt;For Seasoning &lt;/span&gt;&lt;span style=&quot; font-family:'verdana,Arial'; font-size:8pt; color:#515151;&quot;&gt;&lt;br /&gt;1 tblsp mustard&lt;br /&gt;1/2 tblsp urud and channa dal&lt;br /&gt;1/2 tblsp green chillies and red chillies (cut into pieces)&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'verdana,Arial'; font-size:8pt; color:#515151;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser_2">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>50</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:5px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'VERDANA,Arial'; font-size:8pt; font-weight:600; color:#c13e16; background-color:#ffffff;&quot;&gt;How to make palak rice:&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:8pt; color:#000000; background-color:#ffffff;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:12px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;First wash and cut the palak into small pieces and keep aside.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Then cook the basmathi rice and set aside.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Now take a wok, pour some oil and when the oil is hot, add all the seasoning ingredients and fry till done.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Now add the onions, tomatoes and cut palak and nicely mix and close with a lid.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Let the whole thing cook very well.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;When it is done, add garam masala powder if you want and saute for a minute.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Take it wok from fire and add the rice and mix it well.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Take a wok, pour some oil and put the mashed potatoes and roast it slightly and when done add the curry leaves and put into palak rice and mix well.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:12px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Serve with raita.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser_3">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>270</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

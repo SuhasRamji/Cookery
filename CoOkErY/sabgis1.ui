@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Sabgis1</class>
+ <widget class="QWidget" name="Sabgis1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>230</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>NEXT</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>115</x>
+     <y>10</y>
+     <width>181</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PANEER MAKHANA</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>60</y>
+     <width>251</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="midLineWidth">
+    <number>0</number>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Required Images/paner.jpg</pixmap>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>280</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:5px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'VERDANA,Arial'; font-size:8pt; font-weight:600; color:#c13e16; background-color:#ffffff;&quot;&gt;Ingredients:&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:8pt; color:#000000; background-color:#ffffff;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;right&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#ffffff&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td width=&quot;30&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:10px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'verdana,Arial'; font-size:8pt; color:#515151; background-color:#ffffff;&quot;&gt;2 cup Makhana&lt;/span&gt;&lt;span style=&quot; font-family:'verdana,Arial'; font-size:8pt; color:#515151;&quot;&gt;&lt;br /&gt;250 gms Cottage Cheese (Paneer) &lt;br /&gt;4 Onion (Pyaj) &lt;br /&gt;4 Tomato (Tamatar) &lt;br /&gt;1 &amp;quot; long piece Ginger (Adrak) &lt;br /&gt;4 - 5 cloves Garlic (Lasun) &lt;br /&gt;1/2 cup Cream (Malai) &lt;br /&gt;2 cup Milk &lt;br /&gt;1 tsp Red Chily Powder (Lal Mirchi) &lt;br /&gt;1/4 tsp Turmeric (Haldi) &lt;br /&gt;1/2 tsp Dried Pudina Leaves&lt;br /&gt;1 cup Cashewnut (Kaju) &lt;br /&gt;1/2 tsp Garam Masala &lt;br /&gt;1 tblsp Poppy seeds (Khuskhus) &lt;br /&gt;Coriander Leaves (Dhania Patta) &lt;br /&gt;4 tblsp Clarified Butter (Ghee) &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser_2">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>30</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:5px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'VERDANA,Arial'; font-size:8pt; font-weight:600; color:#c13e16; background-color:#ffffff;&quot;&gt;How to make shahi paneer makhana curry:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:12px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Heat clarified butter in a pan.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Fry makhana in the ghee.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Cut cottage cheese in samll pieces.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Mince onion, tomato, garlic, ginger.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Cut cashewnut in samll pieces.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Soak poppy seeds in 1/4 cup of water.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;After 1 hour grind the soaked poppy seeds to a fine paste.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Chop coriander leaves very finely.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Heat clarified butter in a pan.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Add onion, tomato, garlic, ginger paste and brown it, stirring continously.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Add poppy seeds and fry for 2 minutes and then turn off the gas.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;To this mixture add makhana, cottage cheese, cream , salt, red chili pepper, turmeric, dried pudina leaves.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Keep this mixture aside for half an hour.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;After half an hour put the pan on the flame and add milk.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;When it comes to a boil add 3 cups of water.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Simmer it till the makahana are completely done and soft.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Then add cashewnuts and garam masala.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;After 1 minute put the flame.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Transfer the mixture to a dish and sprinkle some corainder on it.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:12px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Serve it hot with nan, roti or parantha.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser_3">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>270</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

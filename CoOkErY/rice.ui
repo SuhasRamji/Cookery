@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Rice</class>
+ <widget class="QWidget" name="Rice">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>728</width>
+    <height>533</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>280</y>
+     <width>341</width>
+     <height>221</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:5px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'VERDANA,Arial'; font-size:8pt; font-weight:600; color:#c13e16; background-color:#ffffff;&quot;&gt;Ingredients:&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:8pt; color:#000000; background-color:#ffffff;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;right&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#ffffff&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td width=&quot;30&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:10px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'verdana,Arial'; font-size:8pt; color:#515151; background-color:#ffffff;&quot;&gt;2 cups Basmati Rice&lt;/span&gt;&lt;span style=&quot; font-family:'verdana,Arial'; font-size:8pt; color:#515151;&quot;&gt; &lt;br /&gt;1 cup Mixed Vgetable (cauliflower, potato, carrot, french beans)&lt;br /&gt;150 gms Green Peas&lt;br /&gt;3 Finely Sliced Onion &lt;br /&gt;2 Finely Sliced Green Chillies &lt;br /&gt;Salt to taste &lt;br /&gt;1 tsp Red Chilli Powder&lt;br /&gt;2 tsp Cinnamon(dalchini), Caraway Seeds(zeera)&lt;br /&gt;4 Cloves (laung) &lt;br /&gt;1/2 tsp Black Pepper Powder&lt;br /&gt;4 Tomato &lt;br /&gt;1/2 cup Yogurt (curd)&lt;br /&gt;4 tbsp Vegetable Oil&lt;br /&gt;1/2 tsp Mustard Seeds &lt;br /&gt;3 tbsp Dry Fruits (cashew nuts, raisin)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser_2">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>50</y>
+     <width>271</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:15px; margin-right:5px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'VERDANA,Arial'; font-size:8pt; font-weight:600; color:#c13e16; background-color:#ffffff;&quot;&gt;How to make vegitable biryani :&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:12px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Wash the basmati rice well before cooking.Then take rice with 3-3/4 cup water and a little salt added to it and 2 tbsp of dry fruits.Cook it in pressure cooker or in a pan or microwave.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Cut all the vegetables into small thin pieces and fry each one of it separately in oil. Fry the green peas also.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Take 1 tblsp oil in a pan and add mustard seeds, green chilli, cinnamon and caraway seeds powder, cloves, black pepper powder and stir for about half minute. Then add onions and saute them for a minute ot till they get pink in color.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Add salt and red chilli powder and stir.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Add fine chopped tomatoes and fry till they are properly cooked.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Take the yogurt and make it fine by putting in a blender for just 2 rotations. Add this fine yogurt and stir well.Heat it for about 10 seconds.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Add all the fried vegetables.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Add the cooked rice and mix well with very light hands so that the rice grain doesn't break. Cook for about 3 minutes.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Take this vegetable biryani out in a rice serving dish.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Garnish with dry fruits and green coriander leaves.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana,Arial'; font-size:8pt; color:#515151;&quot; style=&quot; margin-top:0px; margin-bottom:12px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Serve the vegetable (veg ) biryani hot with raita and pickle.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>370</y>
+     <width>121</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>         Health Aspects</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser_3">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>400</y>
+     <width>271</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>650</x>
+     <y>290</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Next</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>50</y>
+     <width>341</width>
+     <height>191</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Required Images/vegetable birIYANI.jpg</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>10</y>
+     <width>311</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>MV Boli</family>
+     <pointsize>22</pointsize>
+     <italic>true</italic>
+    </font>
+   </property>
+   <property name="text">
+    <string>VEGITABLE BIRIYANI</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

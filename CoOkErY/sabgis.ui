@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Sabgis</class>
+ <widget class="QWidget" name="Sabgis">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>20</y>
+     <width>101</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string> BESAN KE GATTE</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>50</y>
+     <width>241</width>
+     <height>231</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Required Images/besan.jpg</pixmap>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>280</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:5px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial'; font-size:8pt; font-weight:600; color:#c13e16;&quot;&gt;Ingredients:&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Times New Roman'; font-size:8pt; color:#000000;&quot;&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;center&quot; width=&quot;98%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td width=&quot;250&quot; style=&quot; vertical-align:top;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'verdana'; font-size:8pt; font-weight:600; color:#515151;&quot;&gt;For the gatte:&lt;/span&gt;&lt;span style=&quot; font-family:'verdana'; font-size:8pt; color:#515151;&quot;&gt;&lt;br /&gt;2oo gms or 1 1/2 cup besan &lt;br /&gt;1/2 tsp cumin seeds (jeera)&lt;br /&gt;Pinch of asafoetida (hing) &lt;br /&gt;1/4 cup Curd&lt;br /&gt;1/4 tsp baking soda&lt;br /&gt;1/2 tsp Fennel seeds (saunf) corasely grinded&lt;br /&gt;1/2 tsp salt&lt;br /&gt;1/2 tsp red chilly powder&lt;br /&gt;4 cloves (laung) &lt;br /&gt;4 whole black peppercorns (kali mirch) &lt;br /&gt;3 tbsp oil&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'verdana'; font-size:8pt; font-weight:600; color:#515151;&quot;&gt;For the gravy:&lt;/span&gt;&lt;span style=&quot; font-family:'verdana'; font-size:8pt; color:#515151;&quot;&gt;&lt;br /&gt;1 cup sour curd (khatta dahi) &lt;br /&gt;2 medium size onions &lt;br /&gt;4-5 garlic pods &lt;br /&gt;1 inch piece ginger (adrak) &lt;br /&gt;2 green chilly (hari mirch) &lt;br /&gt;1 tsp coriander powder (dhania) &lt;br /&gt;1/2 tsp cumin seeds (jeera) &lt;br /&gt;1/2 tsp red chilly powder (lal mirch) &lt;br /&gt;1 tsp salt &lt;br /&gt;1/4 tsp garam masala&lt;br /&gt;1/4 tsp crushed fenugreek leaves&lt;br /&gt;2 tbsp ghee or oi&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser_2">
+   <property name="geometry">
+    <rect>
+     <x>350</x>
+     <y>40</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:5px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial'; font-size:8pt; font-weight:600; color:#c13e16;&quot;&gt;How to make Rajasthani Besan Ke Gatte:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; font-weight:600;&quot;&gt;To Make Gatta :&lt;/span&gt;&lt;span style=&quot; font-size:medium;&quot;&gt; In a bowl mix together besan, jeera, fennel seeds, salt, chilly powder, hing, coarsely crushed cloves and black peppercorns, baking soda and oil. Then add the curd and mix well.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Next with the help of little water knead a stiff dough just like for rotis. Make sure to add water little by little so that the dough should not get extra soft.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Now divide the dough into 6 – 7 parts. Roll each part into cylindrical tubes of ½ inch in diameter and 4 – 5 inches long.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Boil 4 cups of water and place these rolls in it. Let it cook for 15 mins or till the rolls get cooked from inside.Cut a piece to check if they are cooked properly and evenly. Otherwise cook some more.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Then turn off the flame and take out the rolls from the water and keep the water aside for the curry.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Cut the rolls into 1 inch pieces.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; font-weight:600;&quot;&gt;For the gravy :&lt;/span&gt;&lt;span style=&quot; font-size:medium;&quot;&gt; Make a fine paste of ginger, green chillies, onion and garlic. Whisk the curd smooth with a beater.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;In a kadai heat the pan and put jeera. When it begins to crackle add the onion paste prepared before.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Fry the onion paste till light brown in color. Then add the chilli powder, turmeric powder, coriander powder and garam masala. Fry for another 2 mins.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Now lower the flame and slowly add the whisked curd. Stir well and continue cooking till oil separates. Stir once in a while so that the mixture does not get burnt.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Now add the gatta water separated earlier. Bring it to a boil and then add the cut gatte pieces. Let the curry simmer for 5 – 10 more minutes on low flame. Then add the fenugreek leaves.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Transfer the curry to a serving dish and garnish with chopped coriander.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Verdana'; font-size:8pt; color:#000000;&quot; style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:10px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium;&quot;&gt;Serve hot with batti or roti as you prefer.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser_3">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>280</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>240</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>NEXT</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
